@@ -16,8 +16,6 @@ I recommend them wholeheartedly though. Everyone (theoretically) rides their bik
 
 I digress.
 
-I’ve wanted to race my motorbike for years, just, it was like when you ask a child what they want to be when they grow up and they ingeniously say an aeroplane or a dinosaur.
-
 Back in August, just before my last trackday of the year, I started listening to Chris Hadfield's audiobook ‘An Astronaut's Guide to Life on Earth’. In it, he talks about being a Canadian child wanting to be an Astronaut. Canada didn’t even have a space program, nor would it for the foreseeable future. Chris went for it. He figured that if at any point on the path to being an Astronaut, he had to stop where he was: Air Cadets, RCAF, test pilot, etc. That’s more than ok.
 
 That was the turning point. I want to race my motorbike, but, if it never happens and just wind up doing trackdays. That's more than ok.
