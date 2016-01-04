@@ -1,0 +1,27 @@
+@mixin font-size($args...) {
+    @include inuit-font-size($args...);
+}
+
+@mixin font-weight($weight) {
+    @if ($weight == thin) {
+        font-weight: $font-weight-thin;
+    } @else if ($weight == light) {
+        font-weight: $font-weight-light;
+    } @else if ($weight == normal or $weight == regular) {
+        font-weight: $font-weight-normal;
+    } @else if ($weight == medium) {
+        font-weight: $font-weight-medium;
+    } @else if ($weight == bold) {
+        font-weight: $font-weight-bold;
+    } @else if ($weight == ultra-bold) {
+        font-weight: $font-weight-ultra-bold;
+    } @else {
+        font-weight: $weight;
+    }
+}
+
+@mixin vendor($property, $value...) {
+    -webkit-#{$property}: $value;
+       -moz-#{$property}: $value;
+            #{$property}: $value;
+}

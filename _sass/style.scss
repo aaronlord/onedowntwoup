@@ -1,0 +1,92 @@
+/**
+ * Settings
+ */
+@import "../_bower_components/inuit-defaults/settings.defaults";
+@import "../_bower_components/inuit-responsive-settings/settings.responsive";
+@import "settings.spacing-units";
+@import "settings.responsive";
+@import "settings.widths";
+@import "settings.colors";
+
+/**
+ * Tools
+ */
+@import "../_bower_components/inuit-functions/tools.functions";
+@import "../_bower_components/inuit-mixins/tools.mixins";
+@import "../_bower_components/inuit-tools-widths/tools.widths";
+@import "../_bower_components/inuit-responsive-tools/tools.responsive";
+@import "tools.mixins";
+
+/**
+ * Generic
+ */
+@import "../_bower_components/inuit-normalize.css/generic.normalize";
+@import "../_bower_components/inuit-reset/generic.reset";
+@import "../_bower_components/inuit-box-sizing/generic.box-sizing";
+@import "../_bower_components/inuit-shared/generic.shared";
+
+/**
+ * Base
+ */
+@import "../_bower_components/inuit-page/base.page";
+@import "../_bower_components/inuit-headings/base.headings";
+@import "../_bower_components/inuit-paragraphs/base.paragraphs";
+@import "../_bower_components/inuit-images/base.images";
+@import "../_bower_components/inuit-lists/base.lists";
+@import "base.page";
+@import "base.type";
+
+/**
+ * Objects
+ */
+$inuit-enable-layout--center: true;
+@import "../_bower_components/inuit-layout/objects.layout";
+$inuit-enable-list-inline--delimited: true;
+@import "../_bower_components/inuit-list-inline/objects.list-inline";
+@import "../_bower_components/inuit-list-block/objects.list-block";
+@import "objects.list-inline";
+@import "objects.list-block";
+@import "objects.wrappers";
+
+.figure {
+    border: 2px solid $color-ui;
+    padding: $spacing-unit--micro;
+    width: 100%;
+
+    > img {
+        width: 100%;
+    }
+}
+    .figure__caption {
+        @include font-size(12px, 1em);
+        margin: $spacing-unit--micro 0 0;
+        text-align: center;
+    }
+
+/**
+ * Components
+ */
+@import "components.chapter";
+.page-header {
+    background: $color-grey--darkest;
+    padding: $spacing-unit--small;
+}
+
+.posts-list {
+
+}
+
+/**
+ * Trumps
+ */
+$inuit-widths-columns: (12);
+$inuit-enable-margins: true;
+$inuit-enable-margins--large: true;
+@import "../_bower_components/inuit-clearfix/trumps.clearfix";
+@import "../_bower_components/inuit-spacing/trumps.spacing";
+@import "../_bower_components/inuit-widths/trumps.widths";
+@import "../_bower_components/inuit-headings-trumps/trumps.headings";
+
+.u-c {
+    text-align: center;
+}

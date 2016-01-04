@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<section class="chapter chapter--full"><!--
+    --><header class="chapter__header">
+        <h1 class="heading kilo">{{ page.title }}</h1>
+        <ul class="list-inline list-inline--slash-delimited">
+            <li>{{ page.date | date: "%b %-d, %Y" }}
+            {% if page.meta %}<li>{{ page.meta }}</li>{% endif %}
+        </ul>
+    </header><!--
+    --><div class="chapter__content">
+        {% if page.hero %}
+            {% include components/figure.html src=page.hero caption=page.hero_caption %}
+        {% endif %}
+
+        {{ content }}
+    </div><!--
+--></section>
