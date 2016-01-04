@@ -18,7 +18,7 @@ I digress.
 
 Back in August, just before my last trackday of the year, I started listening to Chris Hadfield's audiobook ‘An Astronaut's Guide to Life on Earth’. In it, he talks about being a Canadian child wanting to be an Astronaut. Canada didn’t even have a space program, nor would it for the foreseeable future. Chris went for it. He figured that if at any point on the path to being an Astronaut, he had to stop where he was: Air Cadets, RCAF, test pilot, etc. That’s more than ok.
 
-That was the turning point. I want to race my motorbike, but, if it never happens and just wind up doing trackdays. That's more than ok.
+That was the turning point. I want to race my motorbike, but, if it never happens and just wind up doing 'proper' trackdays. That's more than ok.
 
 August saw my Road Bike Only track day. Over the winter I’ve started the process of stripping the dead weight that is road trim off my bike and preparing it for track only in 2016 onward.
 
