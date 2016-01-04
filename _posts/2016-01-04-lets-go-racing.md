@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Let's go racing"
-date:   2016-01-02 22:30:01
+date:   2016-01-04 12:42:00
 categories: rants
 hero: /img/2016/01/02/cadwell-august-2015.jpg
 hero_caption: "Cadwell Park - August 2015"
