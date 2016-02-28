@@ -116,7 +116,8 @@ a {
 }
 
 ul {
-    margin: 0 0 $spacing-unit;
+    margin: 0 0 $spacing-unit $spacing-unit;
+    list-style: square;
 }
 
 strong {
@@ -144,7 +145,7 @@ blockquote {
     font-style:  italic;
     padding: $spacing-unit--tiny 0 $spacing-unit--tiny $spacing-unit;
     margin:  0 0 $spacing-unit;
-    border-left: 1px solid $color-ui;
+    border-left: 2px solid $color-ui;
 
     > p {
         &:first-child {
