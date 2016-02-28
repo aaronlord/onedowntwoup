@@ -27,7 +27,7 @@ I found out about the [i2i Knee Down](http://www.i2imca.com/KneeDown.asp) event 
 
 ### The day.
 
-We were supposed to attend on Sunday, but, the weather forecast was strong, cold winds and rain. Tom sent us a text on Saturday offering everyone a chance to reschedule if we wanted.
+We were supposed to attend on Sunday, but, the weather forecast was strong, cold winds and rain. Tom, the guy who runs i2i, sent us a text on Saturday offering everyone a chance to reschedule if we wanted.
 
 The decision was unanimous and I rescheduled to a more promising looking Monday. Bonus: given it was a weekday, only two of us could make it.
 
@@ -37,7 +37,7 @@ It's easy to imagine that an event called "Knee down" could be very blunt. Turn 
 
 It was not like that.
 
-Tom, the guy who runs i2i, emailed us a week before the event asking what we wanted to learn on the day, so he could somewhat tailor the day for us. For me, it was the aforementioned insecure/uncomfortable feeling.
+Tom had emailed us a week before the event asking what we wanted to learn on the day, so he could somewhat tailor the day for us. For me, it was the aforementioned insecure/uncomfortable feeling.
 
 Without giving too much away, the morning was spent doing slow speed handling drills. The idea being that Tom would break down the fundamentals of bike control and rebuild it with evidence based drills.
 
