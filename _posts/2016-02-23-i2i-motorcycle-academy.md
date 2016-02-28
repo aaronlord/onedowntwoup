@@ -39,15 +39,15 @@ It was not like that.
 
 Tom, the guy who runs i2i, emailed us a week before the event asking what we wanted to learn on the day, so he could somewhat tailor the day for us. For me, it was the aforementioned insecure/uncomfortable feeling.
 
-Without giving too much away, the morning was spent doing slow speed handing drills. The idea being that Tom would break down the fundamentals of bike control and rebuild it with evidence based drills.
+Without giving too much away, the morning was spent doing slow speed handling drills. The idea being that Tom would break down the fundamentals of bike control and rebuild it with evidence based drills.
 
-A drill that helped me a lot focused on positive steer. I always thought that when you're mid corner and the inside bar starts pushing back, it's a sign that the front wheel unstable about to tuck. Turns out that's not the case. If you grow a pair and let go of the bars when you feel this happen, the bike will stand itself up.
+A drill focusing on positive steer helped me a lot. I always thought that when you're mid corner and the inside bar starts pushing back, it's a sign that the front wheel is unstable about to tuck. Turns out that's not the case. If you grow a pair and let go of the bars when you feel this happen, the bike will stand itself up.
 
 tl;dr The bike will ride itself; you're a meaty hindrance.
 
-We moved onto body position and had both knee downed on our second attempt just before dinner. Result!
+We moved onto body position and everyone had knee downed just before dinner. Result!
 
-The afternoon was spent on further improvement and practice. By the end of the day I was doing figure of eights while comfortablly dragging my knees and toes, _knees and toes_.
+The afternoon was spent on further improvement and practice. By the end of the day I was doing figure of eights while comfortably dragging my knees and toes, _knees and toes_.
 
 ### Worth it?
 
