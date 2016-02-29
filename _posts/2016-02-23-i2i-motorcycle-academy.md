@@ -5,7 +5,6 @@ date:   2016-02-23 12:42:00
 categories: training
 hero: /img/2016/02/23/i2i-febuary-2016.jpg
 hero_caption: "i2i Knee Down - Febuary 2016"
-excerpt: "Trackdays have been kicking my ass: my legs burn after a single session, my knees hurt by mid day and I'm completely dead by the final session."
 ---
 
 Trackdays have been kicking my ass: my legs burn after a single session, my knees hurt by mid day and I'm completely dead by the final session.
@@ -17,12 +16,12 @@ I found out about the [i2i Knee Down](http://www.i2imca.com/KneeDown.asp) event 
 'Borrowing' copy from the i2i website, the event is described as:
 
 > The course reflects the simple building blocks that make the i2i Machine Control courses powerful. If you are wondering is this course aimed at you, then consider the following:
-> 
+>
 > - Have you ever wondered what it would be like to be in full control of where the bike goes, how far it leans and also to be confident at every lean angle and not just the first few degrees?
 > - Would you like to experience what a bike does at max lean angles?
 > - Would you like to know if expensive tyres are really better than normal ones?
 > - Do you think you can lean a bike on to the pegs even in the wet?
-> 
+>
 > <cite><a href="http://www.i2imca.com/KneeDown.asp">i2i</a></cite>
 
 ### The day.
