@@ -102,4 +102,8 @@ Stick the transfer paper down once again, this time firmly pressing on it to sti
 
 Finally, peel off the transfer paper carefully which should leave behind the vinyl.
 
+<figure class="figure">
+    <img class="figure__img" src="/img/2016/02/28/vinyl-sticker-applied.jpg">
+</figure>
+
 Fin.
