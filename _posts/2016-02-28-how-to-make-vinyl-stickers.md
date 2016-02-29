@@ -59,6 +59,7 @@ Pro-tips:
 
 <figure class="figure">
     <img class="figure__img" src="/img/2016/02/28/vinyl-sticker-straight-cut.jpg">
+    <figcaption class="figure__caption">7 is for losers.</figcaption>
 </figure>
 
 <figure class="figure">
