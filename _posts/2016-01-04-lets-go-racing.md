@@ -19,6 +19,6 @@ Back in August, just before my last trackday of the year, I started listening to
 
 That was the turning point. I want to race my motorbike, but, if it never happens and just wind up doing 'proper' trackdays. That's more than ok.
 
-August saw my Road Bike Only track day. Over the winter I’ve started the process of stripping the dead weight that is road trim off my bike and preparing it for track only in 2016 onward.
+August saw my last Road Bike Only track day. Over the winter I’ve started the process of stripping the dead weight that is road trim off my bike and preparing it for track only in 2016 onward.
 
 For both my own reference and the entertainment of anyone reading. I'm going to document as much as I can. Posts regarding my current experience, level, bike, gear are to follow. Stay tuned.
