@@ -1,14 +1,16 @@
 ---
 layout: default
 ---
-<div class="post">
+<section class="chapter chapter--full"><!--
+    --><header class="chapter__header">
+        <h1 class="heading kilo">{{ page.title }}</h1>
+    </header><!--
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+    --><div class="chapter__content">
+        {% if page.hero %}
+            {% include components/figure.html src=page.hero caption=page.hero_caption %}
+        {% endif %}
 
-  <article class="post-content">
-    {{ content }}
-  </article>
-
-</div>
+        {{ content }}
+    </div><!--
+--></section>

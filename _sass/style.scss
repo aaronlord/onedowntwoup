@@ -44,9 +44,21 @@ $inuit-enable-layout--center: true;
 $inuit-enable-list-inline--delimited: true;
 @import "../_bower_components/inuit-list-inline/objects.list-inline";
 @import "../_bower_components/inuit-list-block/objects.list-block";
+$inuit-enable-table--cosy: true;
+$inuit-enable-table--rows: true;
+@import "../_bower_components/inuit-tables/objects.tables";
 @import "objects.list-inline";
 @import "objects.list-block";
 @import "objects.wrappers";
+table {
+    @extend .table;
+    @extend .table--rows;
+    @extend .table--cosy;
+
+    tbody tr:nth-child(2n - 1) {
+        background: #eee;
+    }
+}
 
 .figure {
     border: 2px solid $color-ui;
