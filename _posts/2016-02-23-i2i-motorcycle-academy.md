@@ -7,7 +7,7 @@ hero: /img/2016/02/23/i2i-febuary-2016.jpg
 hero_caption: "i2i Knee Down - Febuary 2016"
 ---
 
-Trackdays have been kicking my ass: my legs burn after a single session, my knees hurt by mid day and I'm completely dead by the final session.
+Trackdays have been killing me: my legs burn after a single session, my knees hurt by mid day and I'm completely dead by the final session.
 
 I was sure I was doing something wrong. I didn't feel secure or comfortable when hanging off the bike, especially at slower speeds when centripetal force is less helpful. I must have looked better than I felt though, I always have at least one session per track day with an instructor, but, when I brought up the issue it got brushed off with a generic "hang off more".
 
