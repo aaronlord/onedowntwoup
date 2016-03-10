@@ -1,8 +1,13 @@
 ---
 layout: page
-title: "CBR 600 RR"
-hero: /img/bike.jpg
+title: "Bike"
 ---
+
+# CBR 600 RR '05
+
+<figure class="figure">
+    <img src="/img/bike.jpg" class="figure__img">
+</figure>
 
 ### Aftermarket parts
 - Akrapovič exhaust

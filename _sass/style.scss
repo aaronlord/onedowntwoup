@@ -35,6 +35,9 @@
 @import "../_bower_components/inuit-lists/base.lists";
 @import "base.page";
 @import "base.type";
+h1 {
+    margin: 0;
+}
 
 /**
  * Objects
@@ -79,14 +82,40 @@ table {
  * Components
  */
 @import "components.chapter";
-.page-header {
-    background: $color-grey--darkest;
-    padding: $spacing-unit--small;
-}
+.page-header {}
+    .page-header__top {
+        padding: $spacing-unit--small;
+        background: $color-grey--darkest;
+    }
+    .page-header__bottom {
+        border-bottom: 1px solid $color-ui;
+    }
 
-.posts-list {
-
+.site-nav {
+    margin: 0 auto;
+    line-height: 41px;
+    padding: 0;
+    max-width: 650px;
 }
+    .site-nav__list {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: table;
+        table-layout: fixed;
+        width: 100%;
+    }
+        .site-nav__item {
+            display: table-cell;
+        }
+            .site-nav__link {
+                display: inline-block;
+                color: $color-text;
+
+                &:hover {
+                    color: $color-brand;
+                }
+            }
 
 /**
  * Trumps
