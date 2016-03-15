@@ -13,6 +13,8 @@ title: "Bike"
 - Akrapovič exhaust
 - Öhlins rear shock
 - Öhlins steering damper
+- DID 520 ERV3 chain
+- Renthal sprockets, 15 tooth front / 44 tooth back (-1/+2)
 - R&G mirror blanking plates
 - R&G fork sliders
 - R&G frame sliders
@@ -47,7 +49,7 @@ title: "Bike"
 - Cut tail
 
 ### Consumables
-- Bridgestone S20 tyres
+- Metzeler Racetec RR tyres, K2 front / K2 back
 - Galfer brake pads, 1375 front / 1054 rear
 - Motul 7100 engine oil
 - K&N Oil filter
