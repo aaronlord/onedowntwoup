@@ -13,6 +13,7 @@ title: "Bike"
 - Akrapovič exhaust
 - Öhlins rear shock
 - Öhlins steering damper
+- Öhlins fork piston kit & spring
 - DID 520 ERV3 chain
 - Renthal sprockets, 15 tooth front / 44 tooth back (-1/+2)
 - R&G mirror blanking plates
