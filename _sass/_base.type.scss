@@ -15,11 +15,11 @@ $type-big-line-height: 1.1em;
     @include font-size(42px, $type-big-line-height);
 
     @include media-query('tablet') {
-        @include font-size(47px, $type-big-line-height);
+        @include font-size(46px, $type-big-line-height);
     }
 
     @include media-query('desk') {
-        @include font-size(52px, $type-big-line-height);
+        @include font-size(49px, $type-big-line-height);
     }
 }
 
