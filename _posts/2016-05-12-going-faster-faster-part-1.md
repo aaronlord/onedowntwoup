@@ -7,13 +7,13 @@ hero: /img/2016/05/13/books.jpg
 hero_caption: "Twist of the Wrist II, Performance Riding Techniques, MotoVudu 2 & Circuit notes"
 ---
 
-I’m feeling pretty good about my progress on track - I think it’s time to share what little wisdom I have. In the first of this two parter, I’ll list what I feel is the optimal order for to things to learn. The second part will be a varied list of things optional things I’d recommend you buy, learn or do as soon as possible.
+I’m feeling pretty good about my progress on track - I think it’s time to share what little wisdom I have. In the first of this two parter, I’ll list what I feel is the optimal order for to things to learn. The second part will be a varied list of optional things I’d recommend you buy, learn or do as soon as possible.
 
 > Track time is like toilet paper - the more you have, the more you waste
 >
 > <cite>Keith Code</cite>
 
-It’s easy to  spend a lot of time riding round and round without making any progress whatsoever. Have a goal for each and every session.
+It’s easy to  spend a lot of time riding round and round without making any progress whatsoever - have a goal for each and every session.
 
 I’ve written this article in the order of which I wish someone had told me to focus my attention. I haven’t gone into masses of detail for each area for the sake of brevity. I’ll go into more detail in specific areas in future articles.
 
@@ -74,7 +74,7 @@ Some more body position tips:
 - Never sit in the middle - unless you’re on a long straight.
 - Your lower body is more important than your upper body - only move it when completely necessary and do so in a quick, smooth motion without yanking on the bars.
 - Don’t rush your ass movements. You can duck your head behind the screen while leaving your ass off between corners, while driving out of corners and while braking in a straight line.
-- One last thing: Get the tucked in on the straights - chin on the tank and ass back to the seat bump.
+- Get tucked in on the straights - chin on the tank and ass right back to the seat bump.
 
 ### Turn on a closed throttle
 You’ll never feel your bike turn as well as it does on a closed throttle with high rpm engine braking. It’s fucking scary the first time you do it, but, if your suspension is setup right and you trust the rubber - you’re onto a winner
