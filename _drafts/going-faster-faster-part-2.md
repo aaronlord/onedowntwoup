@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Going Faster, Faster. Part 2"
-date:   2016-05-13 11:59:00
+date:   2016-05-12 11:59:00
 categories: guides
 hero: /img/2016/05/13/books.jpg
 hero_caption: "Twist of the Wrist II, Performance Riding Techniques, MotoVudu 2 & Circuit notes"

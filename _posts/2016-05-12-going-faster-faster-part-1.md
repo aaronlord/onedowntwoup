@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Going Faster, Faster. Part 1"
-date:   2016-05-13 10:59:00
+date:   2016-05-12 10:59:00
 categories: guides
 hero: /img/2016/05/13/books.jpg
 hero_caption: "Twist of the Wrist II, Performance Riding Techniques, MotoVudu 2 & Circuit notes"
@@ -18,6 +18,7 @@ It’s easy to  spend a lot of time riding round and round without making any pr
 I’ve written this article in the order of which I wish someone had told me to focus my attention. I haven’t gone into masses of detail for each area for the sake of brevity. I’ll go into more detail in specific areas in future articles.
 
 ### Twist of the Wrist II
+
 If you haven’t already, watch [Twist of the Wrist II]((https://www.youtube.com/watch?v=5ZwyOCdUup8)) (TotW). Look past the hilariously terrible acting and you’ll find more than enough information to build a solid foundation for riding.
 
 The film demonstrates “precision techniques for overcoming barriers to cornering such as rider input, fundamentals on steering, visual skills, braking, body position, throttle control and more.”
@@ -27,6 +28,7 @@ I do recommend other resources to learn from, but, this is the one start with.
 I'll reference things taught in this film throughout this article. Buy it if you can afford it, but, it is on [YouTube](https://www.youtube.com/watch?v=5ZwyOCdUup8).
 
 ### Ride at 70% & Relax
+
 You won’t learn anything if you’re shitting yourself. Ride well within your limit - you’ll be able to focus, think and improve. Your fastest laps never feel fast.
 
 Additionally - as discussed on TotW - relax! Keep your lower body locked into the bike - grip the tank with your legs. Your upper body should be loose. Don’t grip the bars any more than you would grip during a handshake with an elderly gentleman. Ideally your forearms should be parallel to the ground and you should be able to flap your elbows around like you’re doing the chicken dance.
