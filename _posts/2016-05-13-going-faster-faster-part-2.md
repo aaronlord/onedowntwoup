@@ -1,21 +1,20 @@
 ---
 layout: post
 title:  "Going Faster, Faster. Part 2"
-date:   2016-04-03 20:50:00
-categories: trackdays rants
-hero: /img/2016/04/03/cadwell-april-2016.jpg
-hero_caption: "Lazy photographers just shoot The Mountain all day."
+date:   2016-05-13 11:59:00
+categories: guides
+hero: /img/2016/05/13/books.jpg
+hero_caption: "Twist of the Wrist II, Performance Riding Techniques, MotoVudu 2 & Circuit notes"
 ---
 
-### ASAP
-Before we get into track progression, I just want to give a shout out to some things I feel you should do or buy as soon as possible. As with anything in this post, it’s optional and just my opinion.
+Here's a varied list of things optional things I’d recommend you buy, learn or do as soon as possible.
 
 ##### Suspension
 There’s a reason there’s a suspension specialist at pretty much every track day. As stock, motorbikes are hilariously generic and soft, so, go see the suspension specialist at the track as soon as possible.
 
 In exchange for a few quid, he (or she) will perform some black magic voodoo shit on your bike in the form of twisting some knobs on your forks and shock. After which, you’ll have new bike. Seriously - a new bike.
 
-If you’re serious about attending more track days and considering dropping a small fortune on performance upgrades, I’d highly recommend upgrading your suspension before adding more useless power in the form of an exhaust/power commander/etc.[1]
+If you’re serious about attending more track days and considering dropping a small fortune on performance upgrades, I’d highly recommend upgrading your suspension before adding more useless power in the form of an exhaust/power commander/etc.
 
 ##### Tyre warmers
 You’ve paid a lot of money to attend a track day. Say you get 7 * 20 minute sessions . If it’s 2 minutes a lap and you spend 3 laps warming your tyres up, you’re wasting 1/4 of your session and day pootling around with your ass hole twitching like a rabbits nose.
@@ -48,5 +47,3 @@ Check your bikes oil, coolant, brakes, tyres, etc. Take spares of what you can.
 If possible, take fuel in a container and run with as little in your bike as you dare. People spend small fortunes on their bike to make them lighter - then ride around with a full tank of fuel.
 
 That’ll be something like 15kg of unnecessary weight high up on the bike. Your bike will accelerate, brake and turn faster with less effort. Even if you’re not setting blistering lap times, the weight loss will fatigue you less and might even save your ass if you panic brake.
-
-[1] Simplification. Exhausts/power commanders/etc will not only give you more power, but they’ll also  “smooth out” the delivery. That being said, I stand by my suspension first philosophy.
