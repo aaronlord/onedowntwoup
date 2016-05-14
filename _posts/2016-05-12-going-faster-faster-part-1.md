@@ -7,7 +7,8 @@ hero: /img/2016/05/13/books.jpg
 hero_caption: "Twist of the Wrist II, Performance Riding Techniques, MotoVudu 2 & Circuit notes"
 ---
 
-I’m feeling pretty good about my progress on track - I think it’s time to share what little wisdom I have. In the first of this two parter, I’ll list what I feel is the optimal order for to things to learn. The second part will be a varied list of optional things I’d recommend you buy, learn or do as soon as possible.
+I’m feeling pretty good about my progress on track - I think it’s time to share what little wisdom I have. In the first of this two parter, I’ll list what I feel is the optimal order for to things to learn. The [second](/2016/05/13/going-faster-faster-part-2/) part will be a varied list of optional things I’d recommend you buy, learn or do as soon as possible.
+
 
 > Track time is like toilet paper - the more you have, the more you waste
 >
