@@ -14,3 +14,16 @@
     }
 }
 
+    .wrapper--main {
+        margin-top: $spacing-unit--small;
+        margin-bottom: $spacing-unit;
+
+        @include media-query('tablet') {
+            margin-top: $spacing-unit;
+        }
+
+        @include media-query('desk') {
+            margin-top: $spacing-unit--large;
+        }
+    }
+
