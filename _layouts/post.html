@@ -9,6 +9,7 @@ layout: default
             {% if page.meta %}<li>{{ page.meta }}</li>{% endif %}
         </ul>
     </header><!--
+
     --><div class="chapter__content">
         {% if page.hero %}
             {% include components/figure.html src=page.hero caption=page.hero_caption %}
@@ -16,4 +17,29 @@ layout: default
 
         {{ content }}
     </div><!--
+
+    --><footer class="chapter__footer">
+        <div class="chapter__share">
+
+            {% assign share_js = "javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" %}
+            {% assign share_url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
+            {% capture share_title %}I just read {{ page.title }} on {{ site.url }}. Check it out!{% endcapture %}
+
+            <p>Like what you just read? Share it on
+                <a
+                    href="http://www.facebook.com/sharer/sharer.php?u={{ share_url }}&text={{ share_title }}"
+                    onclick="{{ share_js }}"
+                    target="_blank" 
+                    title="Share on Facebook"
+                >
+                    Facebook
+                </a> and/or
+                <a
+                    href="https://twitter.com/intent/tweet?url={{ share_url }}&via={{ site.twitter_username }}&text={{ share_title }}"
+                    onclick="{{ share_js }}"
+                    target="_blank"
+                    title="Share on Twitter"
+                >Twitter</a>. It helps a lot!
+        </div>
+    </footer><!--
 --></section>

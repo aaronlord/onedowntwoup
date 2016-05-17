@@ -5,13 +5,15 @@
     .chapter__header,
     .chapter__content,
     .chapter__meta,
-    .chapter__articles {
+    .chapter__articles,
+    .chapter__footer {
         @extend %layout__item;
     }
 
     .chapter__header,
     .chapter__content,
-    .chapter__meta {
+    .chapter__meta,
+    .chapter__footer {
         @include media-query('tablet') {
             width: $ten-twelfths;
         }
@@ -22,7 +24,8 @@
     }
 
     .chapter__header,
-    .chapter__content {
+    .chapter__content,
+    .chapter__footer {
         @include media-query('desk') {
             width: $eight-twelfths;
         }
@@ -41,6 +44,22 @@
     }
 
     .chapter__content {
+        padding-bottom: $spacing-unit;
+        margin-bottom: $spacing-unit;
+        position: relative;
+
+        &:after {
+            content: '';
+            width: 50%;
+            height: 2px;
+            background: $color-ui;
+            position: absolute;
+            bottom:   0px;
+            left: 50%;
+            margin-left: -25%;
+        }
+
+
         .chapter--full & {
             p:first-of-type {
                 font-weight: 500;
@@ -50,6 +69,10 @@
         .chapter__intro {
 
         }
+
+    .chapter__share {
+        text-align: center;
+    }
 
     .chapter__articles {
 
