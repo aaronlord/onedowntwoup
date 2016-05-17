@@ -4,6 +4,16 @@ layout: default
 <section class="chapter"><!--
     --><div class="chapter__content">
         <ul class="list-block list-block--separated">
+            <li class="post list-block__item">
+                <div class="box box--bordered">
+                    <h4 class="u-mt0">Hey, Thanks for checking out the site.</h4>
+                    <p>Just to let you know, I'm working on writing more articles rather
+                        than adding features to the websitew.</p>
+                    <p>So, for now, <a href="{{ site.facebook_username | prepend: 'https://facebook.com/' }}">like the Facebook page</a> and/or
+                        <a href="{{ site.twitter_username | prepend: 'https://twitter.com/' }}">follow us on Twitter</a> to stay up to date.</p>
+                </div>
+            </li>
+
             {% for post in site.posts %}
                 <li class="post list-block__item">
                     <a href="{{ post.url | prepend: site.baseurl }}" class="list-block__link">

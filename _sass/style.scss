@@ -105,6 +105,16 @@ table {
  * Components
  */
 @import "components.chapter";
+.box {
+    padding: $spacing-unit;
+
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+    .box--bordered {
+        border: 2px solid $color-ui;
+    }
 .page-header {}
     .page-header__top {
         padding: $spacing-unit--small;
@@ -145,6 +155,7 @@ table {
  */
 $inuit-widths-columns: (12);
 $inuit-enable-margins: true;
+$inuit-enable-margins--none: true;
 $inuit-enable-margins--large: true;
 @import "../_bower_components/inuit-clearfix/trumps.clearfix";
 @import "../_bower_components/inuit-spacing/trumps.spacing";
