@@ -8,6 +8,8 @@ hero_caption: "Twist of the Wrist II, Performance Riding Techniques, MotoVudu 2 
 ---
 As mentioned in the introduction to [Part 1](/2016/05/12/going-faster-faster-part-1/), this article will be a varied list of optional things I’d recommend you buy, learn or do as soon as possible.
 
+If you haven't already read [Part 1](/2016/05/12/going-faster-faster-part-1/), I suggest you do that now.
+
 ### Suspension
 
 There’s a reason there’s a suspension specialist at pretty much every track day. As stock, motorbikes are hilariously generic and soft, so, go see the suspension specialist at the track as soon as possible. 
