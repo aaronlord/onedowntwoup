@@ -3,7 +3,7 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
 # Site settings
-title: -1/+2
+title: -1/+2 : One Down Two Up
 url: "http://onedowntwoup.com"
 description: >
   Ramblings, hints and tips as I try to figure out this business of going fast.
