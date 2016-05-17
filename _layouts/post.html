@@ -25,7 +25,9 @@ layout: default
             {% assign share_url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
             {% capture share_title %}I just read {{ page.title }} on {{ site.url }}. Check it out!{% endcapture %}
 
-            <p>Like what you just read? Share it on
+            <h6>Like what you just read?</h6>
+            <p>
+                Share this article on
                 <a
                     href="http://www.facebook.com/sharer/sharer.php?u={{ share_url }}&text={{ share_title }}"
                     onclick="{{ share_js }}"
@@ -39,7 +41,39 @@ layout: default
                     onclick="{{ share_js }}"
                     target="_blank"
                     title="Share on Twitter"
-                >Twitter</a>. It helps a lot!
+                    >Twitter</a>.
+            </p>
+            <p>
+                <a
+                    href="{{ site.facebook_username | prepend: 'https://facebook.com/' }}"
+                    target="_blank" 
+                >Like us on Facebook</a> and/or <a
+                    href="{{ site.twitter_username | prepend: 'https://twitter.com/' }}"
+                    target="_blank"
+                    >follow us on Twitter</a>.
+            </p>
+            <p class="u-mb0">It helps <em>a lot</em>!</p>
         </div>
+
+        <div class="layout"><!--
+            --><div class="chapter__continue chapter__continue--previous layout__item u-6/12">
+                {% if page.previous.url %}
+                    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="chapter__continue__link">
+                        <h6 class="chapter__continue__subheading">Previous post</h6>
+                        <h5 class="gamma">{{ page.previous.title }}</h5>
+                    </a>
+                {% endif %}
+            </div><!--
+
+            --><div class="[ chapter__continue chapter__continue--next ][ layout__item u-6/12 ]">
+                {% if page.next.url %}
+                    <a href="{{ page.next.url | prepend: site.baseurl }}" class="chapter__continue__link">
+                        <h6 class="chapter__continue__subheading">Next post</h6>
+                        <h5 class="gamma">{{ page.next.title }}</h5>
+                    </a>
+                {% endif %}
+            </div><!--
+        --></div>
+
     </footer><!--
 --></section>

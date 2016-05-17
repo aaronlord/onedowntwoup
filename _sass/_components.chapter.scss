@@ -44,6 +44,14 @@
     }
 
     .chapter__content {
+        .chapter--full & {
+            p:first-of-type {
+                font-weight: 500;
+            }
+        }
+    }
+    .chapter__content,
+    .chapter__share {
         padding-bottom: $spacing-unit;
         margin-bottom: $spacing-unit;
         position: relative;
@@ -58,21 +66,23 @@
             left: 50%;
             margin-left: -25%;
         }
-
-
-        .chapter--full & {
-            p:first-of-type {
-                font-weight: 500;
-            }
-        }
     }
         .chapter__intro {
 
         }
 
-    .chapter__share {
-        text-align: center;
+    .chapter__footer {
+        margin-bottom: $spacing-unit--large;
     }
+        .chapter__share {
+            text-align: center;
+        }
+
+        .chapter__continue {
+        }
+            .chapter__continue--next {
+                text-align: right;
+            }
 
     .chapter__articles {
 
