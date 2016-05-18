@@ -16,11 +16,34 @@ layout: default
         {% endif %}
 
         {{ content }}
+
+        <div class="u-c">
+            <a href="#disqus_thread">Comments below</a>
+        </div>
     </div><!--
 
     --><footer class="chapter__footer">
-        <div class="chapter__share">
+        <div class="chapter__continues layout"><!--
+            --><div class="chapter__continue chapter__continue--previous layout__item u-6/12">
+                {% if page.previous.url %}
+                    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="chapter__continue__link">
+                        <h6 class="chapter__continue__subheading">Previous post</h6>
+                        <h5 class="gamma">{{ page.previous.title }}</h5>
+                    </a>
+                {% endif %}
+            </div><!--
 
+            --><div class="[ chapter__continue chapter__continue--next ][ layout__item u-6/12 ]">
+                {% if page.next.url %}
+                    <a href="{{ page.next.url | prepend: site.baseurl }}" class="chapter__continue__link">
+                        <h6 class="chapter__continue__subheading">Next post</h6>
+                        <h5 class="gamma">{{ page.next.title }}</h5>
+                    </a>
+                {% endif %}
+            </div><!--
+        --></div>
+
+        <div class="chapter__share">
             {% assign share_js = "javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" %}
             {% assign share_url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
             {% capture share_title %}I just read {{ page.title }} on {{ site.url }}. Check it out!{% endcapture %}
@@ -55,25 +78,17 @@ layout: default
             <p class="u-mb0">It helps <em>a lot</em>!</p>
         </div>
 
-        <div class="layout"><!--
-            --><div class="chapter__continue chapter__continue--previous layout__item u-6/12">
-                {% if page.previous.url %}
-                    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="chapter__continue__link">
-                        <h6 class="chapter__continue__subheading">Previous post</h6>
-                        <h5 class="gamma">{{ page.previous.title }}</h5>
-                    </a>
-                {% endif %}
-            </div><!--
-
-            --><div class="[ chapter__continue chapter__continue--next ][ layout__item u-6/12 ]">
-                {% if page.next.url %}
-                    <a href="{{ page.next.url | prepend: site.baseurl }}" class="chapter__continue__link">
-                        <h6 class="chapter__continue__subheading">Next post</h6>
-                        <h5 class="gamma">{{ page.next.title }}</h5>
-                    </a>
-                {% endif %}
-            </div><!--
-        --></div>
-
+        <div class="chapter__comments">
+            <div id="disqus_thread"></div>
+            <script>
+                (function() {var d = document, s = d.createElement('script'); s.src = '//onedowntwoup.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s);})();
+            </script>
+            <noscript>
+                <p>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></p>
+            </noscript>
+        </div>
     </footer><!--
 --></section>
+
+<script id="dsq-count-scr" src="//onedowntwoup.disqus.com/count.js" async></script>

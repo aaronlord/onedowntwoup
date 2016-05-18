@@ -50,10 +50,10 @@
             }
         }
     }
-    .chapter__content,
-    .chapter__share {
-        padding-bottom: $spacing-unit;
-        margin-bottom: $spacing-unit;
+    .chapter__share,
+    .chapter__continues {
+        padding-bottom: $spacing-unit--large;
+        margin-bottom: $spacing-unit--large;
         position: relative;
 
         &:after {
@@ -72,17 +72,22 @@
         }
 
     .chapter__footer {
-        margin-bottom: $spacing-unit--large;
+        // margin-bottom: $spacing-unit--large;
     }
         .chapter__share {
             text-align: center;
         }
-
-        .chapter__continue {
+        .chapter__continues {
+            margin-top: $spacing-unit--large;
+            padding-bottom: $spacing-unit--large;
         }
-            .chapter__continue--next {
-                text-align: right;
+            .chapter__continue {
             }
+                .chapter__continue--next {
+                    text-align: right;
+                }
+        .chapter__comments {
+        }
 
     .chapter__articles {
 
