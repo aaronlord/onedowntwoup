@@ -1,5 +1,5 @@
 <figure class="figure">
-    <img src="{{ include.src }}" alt="{{ include.caption }}">
+    <img src="{{ include.src }}" alt="{{ include.caption | strip_html }}">
 
     {% if include.caption %}
         <figcaption class="figure__caption">{{ include.caption }}</figcaption>
