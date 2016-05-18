@@ -1,6 +1,7 @@
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
+timezone: Europe/London
 
 # Site settings
 title: -1/+2 - One Down Two Up
