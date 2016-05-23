@@ -8,6 +8,8 @@ title: "Gear"
     <figcaption class="figure__caption">Picture might not always be up to date, the list below is.</figcaption>
 </figure>
 
+I find it difficult to buy off the peg - I'm tall and thin. Most gear choices were driven by my issue with finding stuff that fits.
+
 ##### Helmet & Leathers
 - AGV Pista GP Elements Limited
     - With the obligatory tinted visor, pinlock and tearoffs.
