@@ -3,15 +3,18 @@ layout: page
 title: "Bike"
 ---
 
-# CBR 600 RR '05
-
 <figure class="figure">
     <img src="/img/bike.jpg" class="figure__img">
     <figcaption class="figure__caption">Picture might not always be up to date, the list below is.</figcaption>
 </figure>
 
-### Aftermarket parts
-- Akrapovič exhaust
+My bike is a **Honda CBR 600 RR '05**. It was barely used when I purhcased it in 2011, having just a couple of hundred miles on the clock.
+For a few years I commuted to work on it, went on weekend blasts and rode it to and from the handful of 'Road Bike Only' track days I attended.
+
+After I no longer commuted to work and grew bored of road riding [the story began](/2016/01/04/lets-go-racing/).
+
+##### Aftermarket parts
+- Akrapovič exhaust (slip on)
 - Öhlins rear shock
 - Öhlins fork piston kit & springs
 - Öhlins steering damper
