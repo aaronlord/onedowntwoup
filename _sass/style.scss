@@ -109,6 +109,26 @@ table {
  * Components
  */
 @import "components.chapter";
+.icon {
+    display: inline-block;
+}
+    .icon--btn-facebook,
+    .icon--btn-twitter,
+    .icon--btn-instagram {
+        width: 24px;
+        height: 24px;
+        background-size: 24px 24px;
+    }
+    .icon--btn-facebook {
+        background-image: url('/img/icons/btn-facebook@2x.png');
+    }
+    .icon--btn-twitter {
+        background-image: url('/img/icons/btn-twitter@2x.png');
+    }
+    .icon--btn-instagram {
+        background-image: url('/img/icons/btn-instagram@2x.png');
+    }
+
 .box {
     padding: $spacing-unit;
 
@@ -134,6 +154,15 @@ table {
     padding: 0;
     max-width: 650px;
 }
+    .site-nav--social {
+        max-width: 125px;
+        display: block;
+
+        @include media-query('lap-and-up') {
+            display: none;
+        }
+    }
+
     .site-nav__list {
         margin: 0;
         padding: 0;
@@ -145,6 +174,24 @@ table {
         .site-nav__item {
             display: table-cell;
         }
+            .site-nav__item--social {
+                display: none;
+                position: relative;
+                top: $spacing-unit--micro;
+                margin-left: $spacing-unit;
+
+                @include media-query('lap-and-up') {
+                    display: block;
+                }
+
+                .site-nav--social {
+                    display: block;
+                }
+                .site-nav__item {
+                    margin-right: $spacing-unit--tiny;
+                }
+            }
+
             .site-nav__link {
                 display: inline-block;
                 color: $color-text;
