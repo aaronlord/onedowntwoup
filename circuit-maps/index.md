@@ -3,10 +3,11 @@ layout: page
 title: "Circuit Maps"
 ---
 
-| Circuit           | Downloads                                                                                                     |
-| ----------------- | ------------------------------------------------------------------------------------------------------------- |
+| Circuit           | Downloads                                                                                     |
+| ----------------- | --------------------------------------------------------------------------------------------- |
 | Cadwell Park      | [pdf](/circuit-maps/files/cadwell-park.pdf), [png](/circuit-maps/files/cadwell-park.png)      |
 | Donington Park    | [pdf](/circuit-maps/files/donington-park.pdf), [png](/circuit-maps/files/donington-park.png)  |
+| Mallory Park      | [pdf](/circuit-maps/files/mallory-park.pdf), [png](/circuit-maps/files/mallory-park.png)      |
 | Oulton Park       | [pdf](/circuit-maps/files/oulton-park.pdf), [png](/circuit-maps/files/oulton-park.png)        |
 | Silverstone GP    | [pdf](/circuit-maps/files/silverstone-gp.pdf), [png](/circuit-maps/files/silverstone-gp.png)  |
 
