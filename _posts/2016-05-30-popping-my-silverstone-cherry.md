@@ -7,7 +7,7 @@ hero: /img/2016/05/30/silverstone-gp.jpg
 hero_caption: Copse?
 ---
 
-I went on my first trackday at Silverstone this month. In a typically 'Summer 2016’ affair, I religiously checked up on the forecast for clouds - right up until it started to rain a perilously greasy rain on the sighting laps. FFS.
+I went on my first trackday at Silverstone <abbr title="25/05/2016">last week</abbr>. In a typically 'Summer 2016’ affair, I religiously checked up on the forecast for clouds - right up until it started to rain a perilously greasy rain on the sighting laps. FFS.
 
 A quick weather dance and the rain stayed at bay from the second session until I was halfway home.
 
