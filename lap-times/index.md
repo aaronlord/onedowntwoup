@@ -1,10 +1,53 @@
 ---
 layout: page
 title: Lap Times
+class: lap-times
 ---
 
-| Track        | Date       | Best     | Weather     |
-| ------------ | ---------- | -------- | ----------- |
-| Oulton Park  | 05/09/2015 | 2:26     | Sunny       |
-| Cadwell Park | 09/05/2016 | 1:49.730 | Sunny, 20˚c |
-| Mallory Park | 28/03/2016 | 1:07.058 | Rain,  3˚c  |
+In the interest of transparency with my progress - here's a record of all of my laptimes. I'll keep this page up to date.
+
+_Italicised_ lap times were taken from video footage (and thus rather inaccurate). Everything else has been recorded on my HM Dash (10hz GPS).
+
+Bear in mind that while I've always tried to improve my riding, I didn't really comit to trackdays until 2016 when I decided I wanted to [go racing](/2016/01/04/lets-go-racing/).
+
+### Bests
+
+| Track                             | Best     |
+| --------------------------------- | -------- |
+| [Cadwell Park](#cadwell-park)     | 1:49.730 |
+| [Mallory Park](#mallory-park)     | 1:07.058 |
+| [Oulton Park](#oulton-park)       | _2:26_   |
+| [Silverstone GP](#silverstone-gp) | 2:38.848 |
+
+#### Cadwell Park
+
+| Visit | Best          | Group  | Date       | Notes                                                                  |
+| ----- | ------------- | ------ | ---------- | ---------------------------------------------------------------------- |
+| 4      | **1:49.730** | Inters | 09/05/2016 |                                                                        |
+| 3      | 1:58.848     | Novice | 26/04/2016 |                                                                        |
+| 2      | _2:07_       | Novice | 29/03/2016 |                                                                        |
+| 1      | _2:10_       | Novice | 09/05/2015 | Sunny. <abbr title="Road there and back">Road bike only</abbr>.        |
+
+#### Mallory Park
+
+| Visit | Best          | Group  | Date       | Notes                                                                  |
+| ----- | ------------- | ------ | ---------- | ---------------------------------------------------------------------- |
+| 1     | **1:07.058**  | Inters | 28/03/2016 | Rain/damp, 3˚c. First time on wets. First time on trackbike.           |
+
+
+#### Oulton Park
+
+| Visit | Best          | Group  | Date       | Notes                                                                  |
+| ----- | ------------- | -------| ---------- | ---------------------------------------------------------------------- |
+| 3     | _2:22_        | Novice | 05/08/2015 | Cloudy/rain. <abbr title="Road there and back">Road bike only</abbr>.  |
+| 2     | **_2:21_**    | Novice | 24/06/2014 | Sunny. <abbr title="Road there and back">Road bike only</abbr>.        |
+| 1     | _2:31_        | Novice | 30/07/2013 | Rain/damp. <abbr title="Road there and back">Road bike only</abbr>.    |
+
+
+#### Silverstone GP
+
+| Visit | Best          | Group  | Date       | Notes                                                                  |
+| ----- | ------------- | ------ | ---------- | ---------------------------------------------------------------------- |
+| 1     | **2:38.848**  | Inters | 25/05/2016 | Cloudy, 11˚c                                                           |
+
+

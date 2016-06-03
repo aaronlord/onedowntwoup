@@ -69,9 +69,15 @@ table {
     @extend .table;
     @extend .table--rows;
     @extend .table--cosy;
+    width: 100%;
 
     tbody tr:nth-child(2n - 1) {
         background: #eee;
+    }
+
+    @media screen and (max-width: 640px) {
+        overflow-x: auto;
+        display: block;
     }
 }
 
@@ -219,4 +225,17 @@ $inuit-enable-margins--large: true;
 
 .u-c {
     text-align: center;
+}
+
+.u-hide-mobile {
+    display: none;
+    @include media-query('tablet') {
+        display: initial;
+    }
+}
+
+.u-hide-tablet {
+    @include media-query('tablet') {
+        display: none;
+    }
 }
