@@ -2,7 +2,7 @@
 layout: post
 title:  Notes & Circuit Maps
 date:   2016-05-23 12:17:00
-categories: guides
+categories: website
 hero: /img/2016/05/23/cadwell-park-circuit-map.jpg
 hero_caption: <a href="/img/2016/05/23/cadwell-park-circuit-map-full.jpg">Full size</a>.
 ---

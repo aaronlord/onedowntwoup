@@ -4,11 +4,9 @@ title: Lap Times
 class: lap-times
 ---
 
-In the interest of transparency with my progress - here's a record of all of my laptimes. I'll keep this page up to date.
+In the interest of transparency with my progress, here's a list of all of my lap times.
 
 _Italicised_ lap times were taken from video footage (and thus are rather inaccurate). Everything else has been recorded on my HM Dash (10hz GPS).
-
-Bear in mind that while I've always tried to improve my riding, I didn't really comit to trackdays until 2016 when I decided I wanted to [go racing](/2016/01/04/lets-go-racing/).
 
 ### Bests
 
@@ -49,5 +47,3 @@ Bear in mind that while I've always tried to improve my riding, I didn't really 
 | Visit | Best          | Group  | Date       | Notes                                                                  |
 | ----- | ------------- | ------ | ---------- | ---------------------------------------------------------------------- |
 | 1     | **2:38.848**  | Inters | 25/05/2016 | Cloudy, 11˚c                                                           |
-
-
